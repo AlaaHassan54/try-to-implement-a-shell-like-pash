@@ -1,1 +1,1 @@
-# try-to-implement-a-shell-like-pash
+# try-to-implement-a-shell-like-bash
